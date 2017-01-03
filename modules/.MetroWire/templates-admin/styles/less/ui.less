@@ -1,0 +1,62 @@
+.ui-widget-content{
+	.clearfix();
+}
+.langTabsContainer{
+	// padding: 0 !important;
+	// border: none !important;
+	.langTabs{
+		padding: 0 !important;
+		border: none !important;
+		margin-bottom: 1em;
+		.LanguageSupport{
+			padding-bottom: 1em;
+		}
+		.ui-tabs-nav{
+			li{
+				background: @adminAccentDark;
+				border-color: @adminAccentDarker;
+			}
+			.ui-state-active{
+				border-color: #fff;
+				background: #fff;
+			}
+		}
+	}
+}
+
+
+.cke,
+.cke_reset{
+	.transition(box-shadow 0.4s);
+	.box-shadow(none) !important;
+	.cke_top,
+	.cke_bottom {
+		background: @grayLighter !important;
+		border-top: none !important;
+		.box-shadow(none) !important;
+	}
+	.cke_bottom {
+		border-top: 1px solid #ccc !important;
+	}
+	.cke_combo_button,
+	.cke_toolgroup{
+		.border-radius(0) !important;
+	}
+	.cke_combo_off:hover a.cke_combo_button,
+	.cke_button_off:hover{
+		background: #fff !important;
+		.box-shadow(0 0 4px #ccc) !important;
+	}
+	.cke_button_on,
+	.cke_combo_on a.cke_combo_button{
+		background: @adminAccent !important;
+		.box-shadow(inset 0 0 3px rgba(0,0,0,0.2)) !important;
+		span{
+			opacity: 0.5;
+		}
+	}
+}
+.cke_focus.cke{
+	.box-shadow( 0 0 3px @adminAccent ) !important;
+	border: 1px solid @adminAccent !important;
+}

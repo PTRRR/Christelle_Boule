@@ -1,0 +1,1 @@
+<script src="/wire/c.js"></script>

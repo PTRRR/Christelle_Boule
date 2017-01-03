@@ -1,0 +1,121 @@
+[16-Jun-2016 19:20:07 UTC] PHP Warning:  include(templates/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:07 UTC] PHP Warning:  include(templates/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:07 UTC] PHP Warning:  include(): Failed opening 'templates/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:34 UTC] PHP Warning:  include(/templates/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:34 UTC] PHP Warning:  include(): Failed opening '/templates/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:52 UTC] PHP Warning:  include(./templates/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:52 UTC] PHP Warning:  include(./templates/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:20:52 UTC] PHP Warning:  include(): Failed opening './templates/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:41 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:41 UTC] PHP Warning:  include(http://christelleboule.com/c.inc): failed to open stream: no suitable wrapper could be found in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:41 UTC] PHP Warning:  include(): Failed opening 'http://christelleboule.com/c.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:56 UTC] PHP Warning:  include(./c.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:56 UTC] PHP Warning:  include(./c.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:22:56 UTC] PHP Warning:  include(): Failed opening './c.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:23:39 UTC] PHP Warning:  include(./c.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:24:12 UTC] PHP Fatal error:  Cannot use object of type Paths as array in /home/christelleboule/public_html/site/templates/includes/head.inc on line 29
+[16-Jun-2016 19:25:08 UTC] PHP Warning:  include(/wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:25:08 UTC] PHP Warning:  include(): Failed opening '/wire/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:25:37 UTC] PHP Warning:  include(.../wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:25:37 UTC] PHP Warning:  include(.../wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:25:37 UTC] PHP Warning:  include(): Failed opening '.../wire/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:26:01 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:26:01 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:26:01 UTC] PHP Warning:  include(): Failed opening './wire/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:35 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:35 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:35 UTC] PHP Warning:  include(): Failed opening './wire/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:36 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:36 UTC] PHP Warning:  include(./wire/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:30:36 UTC] PHP Warning:  include(): Failed opening './wire/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:41 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:41 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:41 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:41 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:47 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:47 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:51 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:51 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:53 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:53 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:59 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:31:59 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:32:04 UTC] PHP Warning:  include(/includes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:32:04 UTC] PHP Warning:  include(): Failed opening '/includes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 30
+[16-Jun-2016 19:32:49 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:32:55 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:36:10 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:36:29 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:36:31 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:41:15 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:41:18 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:41:27 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:41:31 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:41:43 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:42:48 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:44:25 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:44:47 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:45:18 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:46:14 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:46:35 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:46:56 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:47:22 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:47:31 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:47:58 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:48:42 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/news-ajax.php on line 21
+[16-Jun-2016 19:52:08 UTC] PHP Warning:  include(incldes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 28
+[16-Jun-2016 19:52:08 UTC] PHP Warning:  include(incldes/custom.inc): failed to open stream: No such file or directory in /home/christelleboule/public_html/site/templates/includes/head.inc on line 28
+[16-Jun-2016 19:52:08 UTC] PHP Warning:  include(): Failed opening 'incldes/custom.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/christelleboule/public_html/site/templates/includes/head.inc on line 28
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[16-Jun-2016 19:58:17 UTC] PHP Notice:  Undefined variable: page in /home/christelleboule/public_html/wire/core/Page.php on line 385
+[10-Jul-2016 13:07:39 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/work.php on line 16
+[10-Jul-2016 13:09:08 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/work.php on line 16
+[10-Jul-2016 13:11:52 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/work.php on line 16
+[10-Jul-2016 13:13:38 UTC] PHP Notice:  Trying to get property of non-object in /home/christelleboule/public_html/site/templates/work.php on line 16
+[24-Nov-2016 18:14:07 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:14:07 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:14:07 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:14:23 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:14:23 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:14:23 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:15:29 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:15:29 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:15:29 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:15:53 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:15:53 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:15:53 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:15:57 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:15:57 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:15:57 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:17:23 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:17:23 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:17:23 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 18:17:27 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 18:17:27 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 18:17:27 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 22:38:38 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 22:38:38 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 22:38:38 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[24-Nov-2016 22:38:39 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[24-Nov-2016 22:38:39 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[24-Nov-2016 22:38:39 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[25-Nov-2016 23:21:51 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[25-Nov-2016 23:21:51 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[25-Nov-2016 23:21:51 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[25-Nov-2016 23:21:58 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[25-Nov-2016 23:21:58 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[25-Nov-2016 23:21:58 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
+[09-Dec-2016 11:30:02 UTC] PHP Notice:  Undefined index: start in /home/christelleboule/public_html/site/templates/news-ajax.php on line 5
+[09-Dec-2016 11:30:02 UTC] PHP Notice:  Undefined index: limit in /home/christelleboule/public_html/site/templates/news-ajax.php on line 6
+[09-Dec-2016 11:30:02 UTC] PHP Notice:  Undefined index: total_posts in /home/christelleboule/public_html/site/templates/news-ajax.php on line 7
