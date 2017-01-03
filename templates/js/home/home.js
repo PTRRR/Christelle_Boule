@@ -108,7 +108,7 @@
 
 	$(window).resize(function(){
 
-		var isMobile = $(page).width() < 850 ? true : false;
+		isMobile = $(page).width() < 850 ? true : false;
 
 		page.css({
 			'height': window.innerHeight,
